@@ -3,7 +3,7 @@
 # 🤖 AI Financial Advisor - مستشار مالي ذكي
 
 <p align="center">
-  <img src="New folder (3)\asset\Header.png"width="80%">
+  <img src="asset\Header.png"width="80%">
 </p>
 
 
