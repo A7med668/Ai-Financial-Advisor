@@ -75,24 +75,24 @@ AI Financial Advisor is a comprehensive financial planning application that leve
 ### Key Screens
 - 💼 Main Analysis Dashboard
 <p align="center">
-  <img src="New folder (3)\asset\im2.png"width="80%">
+  <img src="asset\im2.png"width="80%">
 </p>
 
 - 📊 Visual Analytics Tab
 <p align="center">
-  <img src="New folder (3)\asset\im3.png"width="80%">
+  <img src="asset\im3.png"width="80%">
 </p>
 - ❤️ Health Monitoring
 <p align="center">
-  <img src="New folder (3)\asset\im4.png"width="80%">
+  <img src="asset\im4.png"width="80%">
 </p>
 - 🔧 Financial Calculators
 <p align="center">
-  <img src="New folder (3)\asset\im5.png"width="80%">
+  <img src="asset\im5.png"width="80%">
 </p>
 - 📜 Historical Tracking
 <p align="center">
-  <img src="New folder (3)\asset\im6.png"width="80%">
+  <img src="asset\im6.png"width="80%">
 </p>
 ---
 
