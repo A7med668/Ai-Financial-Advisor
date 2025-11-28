@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 AI Financial Advisor - مستشار مالي ذكي
+# 🤖 AI Financial Advisor
 
 <p align="center">
   <img src="asset\Header.png"width="80%">
@@ -400,7 +400,7 @@ in the Software without restriction...
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Ahmed Hussein**  - [MyGitHub](https://github.com/A7med668)
 
 ---
 
