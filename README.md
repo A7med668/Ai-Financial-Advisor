@@ -108,7 +108,7 @@ AI Financial Advisor is a comprehensive financial planning application that leve
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-financial-advisor.git
+git clone https://github.com/A7med668/ai-financial-advisor.git
 cd ai-financial-advisor
 ```
 
